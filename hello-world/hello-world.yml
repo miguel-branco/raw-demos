@@ -1,0 +1,15 @@
+raw: 0.9
+endpoint: GET
+metadata:
+  title: Dummy test
+  description: A very dummy test
+  tags:
+    - test
+    - dummy
+code: rql
+codeFile: code.rql
+format: json
+computeClass: normal
+security:
+  public: true
+enabled: true
