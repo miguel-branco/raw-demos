@@ -12,4 +12,4 @@ format: json
 computeClass: normal
 security:
   public: true
-enabled: true
+enabled: false
